@@ -1,0 +1,41 @@
+S001/Mat Biec/Van Hoc/Nhat Anh/Tre/1949-06-08/328/5/1
+S002/Doi Mua Gio/Tieu Thuyet/To Hoai/Van Hoc/1945-08-17/112/4/0
+S003/Chi Pheo/Truyen Ngan/Nam Cao/Tri Thuc/1946-05-21/300/3/0
+S004/Duoi Bong/Hoi Ky/Huy Thiep/Su That/1943-01-01/250/2/1
+S005/Thay Hoa/Van Hoc/Nhat Anh/Van Hoc/1947-07-01/150/3/1
+S006/De Men/Tieu Thuyet/To Hoai/Tre/1997-06-26/223/5/1
+S007/Lao Hac/Truyen Ngan/Nam Cao/Tre/1998-07-02/251/6/0
+S008/Giot Dang/Hoi Ky/Huy Thiep/Tri Thuc/2001-09-01/320/2/0
+S009/Tuoi Tho/Van Hoc/Nhat Anh/Van Hoc/2003-11-12/280/3/0
+S010/Chuot/Tieu Thuyet/To Hoai/Tre/2004-05-20/145/4/1
+S011/Doi Mat/Truyen Ngan/Nam Cao/Van Hoc/1838-02-01/608/3/0
+S012/Que Nha/Hoi Ky/Huy Thiep/Van Hoc/1861-08-01/544/4/1
+S013/Ngay He Ruc Ro/Van Hoc/Nhat Anh/Van Hoc/1859-04-30/489/2/0
+S014/Dat Rung/Tieu Thuyet/To Hoai/Tre/1857-03-01/372/2/1
+S015/Song Mon/Truyen Ngan/Nam Cao/Tre/1855-10-11/150/3/0
+S016/Nha Co/Van Hoc/Nhat Anh/Phu Nu/1813-01-28/432/6/1
+S017/Que Noi/Tieu Thuyet/To Hoai/Van Hoc/1815-05-01/410/4/0
+S018/Tinh Khuc/Truyen Ngan/Nam Cao/Tri Thuc/1816-09-17/300/2/1
+S019/Ve Huu/Hoi Ky/Huy Thiep/Van Hoc/1814-06-10/375/3/0
+S020/Nam Ay/Van Hoc/Nhat Anh/Phu Nu/1812-12-12/132/2/1
+S021/Con Chut Gi De Nho/Van Hoc/Nhat Anh/Van Hoc/1866-12-01/671/4/1
+S022/Mien Tay/Tieu Thuyet/To Hoai/Van Hoc/1880-11-01/796/2/1
+S023/Lao Hac/Truyen Ngan/Nam Cao/Tri Thuc/1875-04-01/354/2/0
+S024/Vang Mat/Hoi Ky/Huy Thiep/Su That/1870-07-01/490/3/1
+S025/Dat Lanh Chim Dau/Van Hoc/Nhat Anh/Van Hoc/1868-09-12/142/4/1
+S026/Trang Ram/Tieu Thuyet/To Hoai/Van Hoc/1967-05-30/417/5/1
+S027/Song Trong Doi Song/Truyen Ngan/Nam Cao/Tre/1985-03-01/368/3/0
+S028/Trai Tim Lam Lo/Hoi Ky/Huy Thiep/Tri Thuc/1990-01-01/294/2/1
+S029/Canh Dong Bat Tan/Van Hoc/Nhat Anh/Van Hoc/1995-08-21/376/3/1
+S030/Nha Ruong/Tieu Thuyet/To Hoai/Tre/1992-10-10/148/3/0
+S031/Nua Doi Ngo Lai/Truyen Ngan/Nam Cao/Van Hoc/1862-03-01/1463/4/0
+S032/Ngay Xua/Hoi Ky/Huy Thiep/Van Hoc/1831-03-01/510/3/1
+S033/Buoi Chieu/Van Hoc/Nhat Anh/Tri Thuc/1840-01-01/332/2/0
+S034/Cat Bui Chan Ai/Tieu Thuyet/To Hoai/Su That/1844-06-16/410/3/0
+S035/Dong Que/Truyen Ngan/Nam Cao/Van Hoc/1845-10-11/135/3/0
+S036/Thang Quy Nho/Van Hoc/Nhat Anh/Tre/1990-01-01/250/4/1
+S037/Ha Do/Tieu Thuyet/To Hoai/Tre/2010-12-01/300/5/0
+S038/Lam Drama/Truyen Ngan/Nam Cao/Tri Thuc/2001-01-01/288/2/1
+S039/Giua Long Ha Noi/Hoi Ky/Huy Thiep/Tre/1998-09-01/244/3/0
+S040/Can Nha Xua/Hoi Ky/Huy Thiep/Tre/1995-03-01/148/3/0
+S044/Dua xe/Toc Do/Hoang Sy/HaLa/2025-04-13/666/7/1
